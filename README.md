@@ -1,4 +1,4 @@
-# Favorite NBA Player
+# *Favorite NBA Player*
  *Repository of The Goat*
 # Why *Lebron James The Greastest Of All-Time*
 # 1.*He has won championships with three different franchises*
