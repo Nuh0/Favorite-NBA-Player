@@ -1,5 +1,5 @@
 # Favorite NBA Player
- Repository of The Goat
+ *Repository of The Goat*
 # Why *Lebron James The Greastest Of All-Time*
 # 1.*He has won championships with three different franchises*
 # 2.*LeBron is the all-time leading scorer in NBA history*
